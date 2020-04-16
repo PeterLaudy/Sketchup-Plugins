@@ -14,7 +14,7 @@ To be able to use Dynamic Components in Sketchup, you need to install the **Dyna
 
 I assume you know a bit on how to use Dynamic Components. If not, you might want to use Google or YouTube to get some info on this subject.
 
-Copy the dc_editor.rb file and the dc_editor_rb folder to your **%APPDATA%\SketchUp\SketchUp 2017\SketchUp\Plugins** folder.
+Copy the dc_editor.rb file and the dc_editor.rb folder to your **%APPDATA%\SketchUp\SketchUp 2017\SketchUp\Plugins** folder.
 After that, if you startup Sketchup, under the Extensions menu there is a new entry called **DC Editor**.
 
 This will open a dialog, in which you can edit the DC properties for components in your model.
